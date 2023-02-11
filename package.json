@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:assets/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.3",
+    "postcss-cli": "^10.1.0",
+    "sass": "^1.58.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "glightbox": "^3.2.0"
+  }
+}
